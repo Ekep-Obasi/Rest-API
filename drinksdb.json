@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Daiquiri",
+        "description": "The Daiquiri was supposedly invented in 1898 in the eponymous mining town of Daiquiri on the southeastern tip of Cuba by an American mining engineer named Jennings Cox",
+        "url": "https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZHJpbmtzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "alcoholic",
+        "ingredients": [
+            "2 ounces light rum",
+            "1 ounce lime juice, freshly squeezed",
+            "3/4 ounce demerara sugar syrup",
+            "Garnish: lime twist"
+        ],
+        "steps": [
+            "Add the rum, lime juice and demerara sugar syrup to a shaker with ice, and shake until well-chilled",
+            "Strain into a chilled coupe",
+            "Garnish with a lime twis"
+        ],
+        "id": 1677144667116
+    },
+    {
+        "name": "Golden Glove",
+        "description": "Cuba is responsible for many classic cocktails, including the Mojito and Daiquiri",
+        "url": "https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "cocktail",
+        "ingredients": [
+            "2 ounces white rum",
+            "1 teaspoon Cointreau",
+            "1/2 ounce lime juice, freshly squeezed",
+            "1 teaspoon sugar",
+            "Garnish lime half-wheel"
+        ],
+        "steps": [
+            "Add the rum, Cointreau, lime juice and sugar into a shaker with ice, and shake until well-chilled",
+            "Strain into a rocks glass over fresh crushed ice",
+            "Garnish with a lime half-wheel"
+        ],
+        "id": 1677145394233
+    },
+    {
+        "name": "Sweet Tea Smash",
+        "description": "Sweet tea is a summertime treat enjoyed throughout the South and elsewhere during backyard hangouts, quiet conversations and anytime one requires a delicious respite from the heat",
+        "url": "https://images.unsplash.com/photo-1597403491447-3ab08f8e44dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "alcoholic",
+        "ingredients": [
+            "2 lemon wedges",
+            "4 mint leaves",
+            "1 ounce George Dickel No. 12 Tennessee whiskey",
+            "1 teaspoon Strega",
+            "1 ounce unsweetened iced tea",
+            "1 teaspoon cane syrup",
+            "Garnish: mint sprig"
+        ],
+        "steps": [
+            "In a shaker, muddle the lemon wedges and mint leaves",
+            "Add the whiskey, Strega, iced tea and cane syrup with ice, and shake until well-chilled",
+            "Strain into a Collins glass filled with fresh ice and garnish with a sprig of mint"
+        ],
+        "id": 1677145676499
+    },
+    {
+        "name": "Miami Vice",
+        "description": "Cool though it would be, Crockett and Tubbs were not the inspiration for the Miami Vice cocktail",
+        "url": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "cocktail",
+        "ingredients": [
+            "2 ounces rum, divided",
+            "1 cup strawberries, chopped",
+            "1 ounce lime juice, freshly squeezed",
+            "1/2 ounce simple syrup",
+            "2 ounces cream of coconut",
+            "2 ounces pineapple juice",
+            "Garnish: pineapple slice"
+        ],
+        "steps": [
+            "In a shaker, muddle the lemon wedges and mint leaves",
+            "Pour into a hurricane glass and set in the freezer",
+            "Wash and dry the blender thoroughly",
+            "In the clean blender jar, add the remaining 1 ounce of rum, cream of coconut, pineapple juice and 1 cup crushed ice and blend until smooth",
+            "Pour into the hurricane glass that already contains the Strawberry Daiquiri, creating a layered effect",
+            "Garnish with a pineapple slice"
+        ],
+        "id": 1677146264328
+    }
+]
