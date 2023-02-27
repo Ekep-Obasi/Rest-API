@@ -1,0 +1,42 @@
+[
+    {
+        "categoryName": "coffee",
+        "categoryId": 1
+    },
+    {
+        "categoryName": "soft drinks",
+        "categoryId": 2
+    },
+    {
+        "categoryName": "new age beverage",
+        "categoryId": 5
+    },
+    {
+        "categoryName": "isotonic beverage",
+        "categoryId": 6
+    },
+    {
+        "categoryName": "tea packaged and bags",
+        "categoryId": 7
+    },
+    {
+        "categoryName": "coffee creamers",
+        "categoryId": 8
+    },
+    {
+        "categoryName": "powdered instant drinks",
+        "categoryId": 9
+    },
+    {
+        "categoryName": "cocktail mixers",
+        "categoryId": 10
+    },
+    {
+        "categoryName": "hot cocoa",
+        "categoryId": 11
+    },
+    {
+        "categoryName": "herbal tea",
+        "categoryId": 12
+    }
+]

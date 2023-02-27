@@ -1,0 +1,24 @@
+[
+    {
+        "name": "strawbery",
+        "url": "grapes.jpg",
+        "ingredients": [
+            "ice",
+            "grapes",
+            "suagar"
+        ],
+        "id": 1677143692316
+    },
+    {
+        "email": "arreyettaekep@gmail.com",
+        "firstName": "Arrey-Etta",
+        "lastName": "Bessong Ekep Obasi",
+        "id": 1677241091840
+    },
+    {
+        "email": "jimmycurry@gmail.com",
+        "firstName": "Jimmy",
+        "lastName": "Curry",
+        "id": 1677241908508
+    }
+]
