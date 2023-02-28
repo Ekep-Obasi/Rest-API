@@ -13,6 +13,6 @@ function generateApiKey(length) {
   return apiKey;
 }
 
-// console.log(generateApiKey(25));
+console.log(generateApiKey(25));
 
 module.exports = API_KEYS;

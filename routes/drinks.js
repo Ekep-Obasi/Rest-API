@@ -10,13 +10,16 @@ const {
   getDrinkByCategory,
 } = require("../controllers/drinksController");
 
-router.route("/").get(getAllDrinks).post(createDrink);
 router.route("/:category").get(getDrinkByCategory);
+router.route("/").get(getAllDrinks).post(createDrink);
 router
   .route("/:id")
   .get(getOneDrink)
   .patch(patchOneDrink)
   .put(updateOneDrink)
   .delete(deleteOneDrink);
+router.param("category", function (req, res, next, category) {
+  next();
+});
 
 module.exports = router;
