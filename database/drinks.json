@@ -1,0 +1,238 @@
+[
+    {
+        "name": "French Press",
+        "description": "The French press is a small pitcher with a plunger that’s used to brew coffee and other drinks. Despite the name, the French press is actually Italian: it was patented by an Italian designer in 1929",
+        "url": "https://www.acouplecooks.com/wp-content/uploads/2021/08/French-Press-Coffee-001.jpg",
+        "category": "coffee",
+        "categoryID": "1",
+        "ingredients": [
+            "70 grams coffee, about 1 cup ground coffee beans",
+            "4 cups filtered water* (950 grams)",
+            "8-cup / 34-ounce (1 liter) French Press"
+        ],
+        "steps": [
+            "Grind the coffee",
+            "Heat the water",
+            "Add coffee grounds",
+            "Let coffee bloom for 1 minute",
+            "Add water and brew 4 minutes",
+            "Plunge"
+        ],
+        "id": 16772344323445
+    },
+    {
+        "name": "Miami Vice",
+        "description": "Cool though it would be, Crockett and Tubbs were not the inspiration for the Miami Vice cocktail",
+        "url": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "cocktail",
+        "categoryID": "2",
+        "ingredients": [
+            "2 ounces rum, divided",
+            "1 cup strawberries, chopped",
+            "1 ounce lime juice, freshly squeezed",
+            "1/2 ounce simple syrup",
+            "2 ounces cream of coconut",
+            "2 ounces pineapple juice",
+            "Garnish: pineapple slice"
+        ],
+        "steps": [
+            "In a shaker, muddle the lemon wedges and mint leaves",
+            "Pour into a hurricane glass and set in the freezer",
+            "Wash and dry the blender thoroughly",
+            "In the clean blender jar, add the remaining 1 ounce of rum, cream of coconut, pineapple juice and 1 cup crushed ice and blend until smooth",
+            "Pour into the hurricane glass that already contains the Strawberry Daiquiri, creating a layered effect",
+            "Garnish with a pineapple slice"
+        ],
+        "id": 1677234438490
+    },
+    {
+        "name": "Daiquiri",
+        "description": "The Daiquiri was supposedly invented in 1898 in the eponymous mining town of Daiquiri on the southeastern tip of Cuba by an American mining engineer named Jennings Cox",
+        "url": "https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZHJpbmtzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "alcoholic",
+        "categoryID": "5",
+        "ingredients": [
+            "2 ounces light rum",
+            "1 ounce lime juice, freshly squeezed",
+            "3/4 ounce demerara sugar syrup",
+            "Garnish: lime twist"
+        ],
+        "steps": [
+            "Add the rum, lime juice and demerara sugar syrup to a shaker with ice, and shake until well-chilled",
+            "Strain into a chilled coupe",
+            "Garnish with a lime twis"
+        ],
+        "id": 1677234469784
+    },
+    {
+        "name": "Americano",
+        "description": "An Americano is an espresso drink made with hot water and espresso, also called a Caffe Americano. The drink can be made with either one or two shots of espresso, and varying ratios of water. Diluting the strong dark espresso roast brings the flavor closer to a drip coffee: which might be where the name originated!",
+        "url": "https://www.acouplecooks.com/wp-content/uploads/2020/10/How-to-make-an-Americano-004.jpg",
+        "category": "coffee",
+        "categoryID": "1",
+        "ingredients": [
+            "2 ounces (2 shots) espresso",
+            "4 ounces hot water"
+        ],
+        "steps": [
+            "Make the espresso",
+            "Add hot water"
+        ],
+        "id": 122346167725
+    },
+    {
+        "name": "Sweet Tea Smash",
+        "description": "Sweet tea is a summertime treat enjoyed throughout the South and elsewhere during backyard hangouts, quiet conversations and anytime one requires a delicious respite from the heat",
+        "url": "https://images.unsplash.com/photo-1597403491447-3ab08f8e44dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "soft drink",
+        "categoryID": "2",
+        "ingredients": [
+            "2 lemon wedges",
+            "4 mint leaves",
+            "1 ounce George Dickel No. 12 Tennessee whiskey",
+            "1 teaspoon Strega",
+            "1 ounce unsweetened iced tea",
+            "1 teaspoon cane syrup",
+            "Garnish: mint sprig"
+        ],
+        "steps": [
+            "In a shaker, muddle the lemon wedges and mint leaves",
+            "Add the whiskey, Strega, iced tea and cane syrup with ice, and shake until well-chilled",
+            "Strain into a Collins glass filled with fresh ice and garnish with a sprig of mint"
+        ],
+        "id": 1677234489519
+    },
+    {
+        "name": "Daiquiri",
+        "description": "The Daiquiri was supposedly invented in 1898 in the eponymous mining town of Daiquiri on the southeastern tip of Cuba by an American mining engineer named Jennings Cox",
+        "url": "https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZHJpbmtzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "alcoholic",
+        "categoryID": "3",
+        "ingredients": [
+            "2 ounces light rum",
+            "1 ounce lime juice, freshly squeezed",
+            "3/4 ounce demerara sugar syrup",
+            "Garnish: lime twist"
+        ],
+        "steps": [
+            "Add the rum, lime juice and demerara sugar syrup to a shaker with ice, and shake until well-chilled",
+            "Strain into a chilled coupe",
+            "Garnish with a lime twis",
+            "Serve it with ice"
+        ],
+        "id": 1677234507871
+    },
+    {
+        "name": "Mocha",
+        "description": "A mocha or mocha latte is a drink made with espresso and steamed milk that's flavored with chocolate syrup. There's lots of variation on exactly what constitutes this espresso drink: it's up to the barista!",
+        "url": "https://www.acouplecooks.com/wp-content/uploads/2020/10/How-to-Make-a-Mocha-002.jpg",
+        "category": "coffee",
+        "categoryID": "1",
+        "ingredients": [
+            "2 espresso shots (2 ounces)",
+            "1 tablespoon chocolate chips",
+            "4 ounces (½ cup) fresh whole milk*",
+            "½ tablespoon maple syrup (or simple syrup)",
+            "For the garnish: chocolate shavings"
+        ],
+        "steps": [
+            "Place chocolate chips in a cup, then add espresso",
+            "Steam the milk and syrup (espresso machine method)",
+            "OR, heat the milk and syrup on the stovetop, then froth it (non-machine method)",
+            "Serve"
+        ],
+        "id": 1677234519562
+    },
+    {
+        "name": "Golden Glove",
+        "description": "Cuba is responsible for many classic cocktails, including the Mojito and Daiquiri",
+        "url": "https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGRyaW5rc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "cocktail",
+        "categoryID": "5",
+        "ingredients": [
+            "2 ounces white rum",
+            "1 teaspoon Cointreau",
+            "1/2 ounce lime juice, freshly squeezed",
+            "1 teaspoon sugar",
+            "Garnish lime half-wheel"
+        ],
+        "steps": [
+            "Add the rum, Cointreau, lime juice and sugar into a shaker with ice, and shake until well-chilled",
+            "Strain into a rocks glass over fresh crushed ice",
+            "Garnish with a lime half-wheel"
+        ],
+        "id": 1677246884640
+    },
+    {
+        "name": "Latte",
+        "description": "A latte is a coffee drink with espresso, steamed milk and a layer of foam on top. What’s the difference between a latte vs a cappuccino? A cappuccino has equal parts espresso, steamed milk and foam (⅓ each). A latte has ⅓ espresso and 2/3 steamed milk, with a thin layer of foam on top.",
+        "url": "https://www.acouplecooks.com/wp-content/uploads/2021/05/Latte-Art-070.jpg",
+        "category": "coffee",
+        "categoryID": "1",
+        "ingredients": [
+            "2 espresso shots (2 ounces)",
+            "4 ounces (½ cup) fresh whole milk*"
+        ],
+        "steps": [
+            "Make the espresso",
+            "Steaming method (espresso machine)",
+            "OR, heat the milk to scalding and foam it (without espresso machine)",
+            "Serve"
+        ],
+        "id": 1677246907866
+    },
+    {
+        "name": "Iced Tea",
+        "description": "Share this refreshing, citrus drink with friends at your next barbecue.",
+        "url": "https://img.delicious.com.au/-ot58pAo/w759-h506-cfill/del/2015/10/ice-tea-mocktail-19140-2.jpg",
+        "category": "Soft drink",
+        "categoryID": "2",
+        "ingredients": [
+            "1.5L rooibos tea",
+            "1/2 bunch mint, leaves picked",
+            "1.5L apple, peach, apricot juice",
+            "Garnish with sliced lemon, lime skins"
+        ],
+        "steps": [
+            "Begin this recipe 1 day ahead",
+            "Prepare 1.5L rooibos tea following packet directions. Cool, then pour into an ice-cube tray, reserving the rest. Add a mint leaf to each ice-cube hole and freeze",
+            "Combine the reserved tea with 1.5L apple, peach and apricot juice. Divide among serving glasses, top with tea ice-cubes and garnish with sliced lemon and lime skins"
+        ],
+        "id": 1677492594495
+    },
+    {
+        "name": "Orange and basil Pimms",
+        "description": "Long lazy weekend, a relaxed lunch pending? This is the easy, loveable cocktail to serve today.",
+        "url": "https://img.delicious.com.au/6Ukj2y-s/del/2016/04/orange-and-basil-pimms-29490-1.jpg",
+        "category": "soft drink",
+        "categoryID": "2",
+        "ingredients": [
+            "300ml each gin and sweet vermouth",
+            "175ml Cointreau or other orange liqueur",
+            "1 orange, halved, sliced, plus extra slices to serve",
+            "20g ginger, sliced",
+            "Chilled tonic water or lemonade and basil leaves, to serve"
+        ],
+        "steps": [
+            "Combine gin, vermouth and Cointreau in a jug.",
+            "Add orange and ginger, then chill. Strain into glasses filled with ice and pour over mixer. Serve with basil and orange"
+        ],
+        "id": 1677492895936
+    },
+    {
+        "name": "Cranberry vodka",
+        "description": "Long lazy weekend, a relaxed lunch pending? This is the easy, loveable cocktail to serve today.",
+        "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-559673_11-3db72a7.jpg?quality=90&webp=true&resize=300,272",
+        "category": "cocktail mixers",
+        "categoryID": "10",
+        "ingredients": [
+            "250g fresh or frozen cranberries or other berries",
+            "1l bottle vodka",
+            "175g caster sugar"
+        ],
+        "steps": [
+            "Prick each cranberry a couple of times with a fork and layer up in a large sterilised Kilner jar with the sugar. Pour over the vodka and leave for 2 weeks, shaking the jar each day",
+            "Strain and decant into decorative bottles. Seal and label."
+        ]
+    }
+]
